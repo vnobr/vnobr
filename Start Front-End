@@ -1,5 +1,12 @@
 Material de estudos na minha nova jornada de aprendizado, no final indico alguns programas, sites e cursos. -> Front-End.
 
+
+Lista de códigos abaixo que estudei em HTML, CSS e JS.
+
+HTML -> semântica
+CSS -> estilo/forma
+JS -> animações
+
 <html> </html> = o primeiro ˜<html>” se refere a abertura da estrutura de código e o “</html>” indica o fechamento da estrutura do código.
 
 lang="pt-br" = usado para informar que o seu site pertence ao DNS Brasileiro. "<html lang="pr-br""
