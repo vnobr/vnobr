@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vnobr
 - 👀 I’m interested in programming and data analytics.
-- 🌱 I’m currently learning python.
+- 📚 I’m currently learning python.
+- 🎯 Every business day I will study something and report it in my study repository.
 - 📫 How to reach me 15.vinibrasil@gmail.com or https://www.linkedin.com/in/vinicius-brasil-99a263230/
 
 <!---
